@@ -1,0 +1,54 @@
+body{
+    background:#196699;
+    font-family: 'Roboto', sans-serif;
+    color:#fff;
+}
+.main{
+    padding-bottom: 65px;
+}
+.icon i{
+    font-size: 50px;
+}
+.heading h2{
+    color:rgba(228, 215, 215, 0.884);
+}
+.btn-custom{
+    background-color: #2639a8;
+    color:#ffffff;
+}
+form{
+    background: aliceblue;
+    padding: 24px;
+    border-radius: 4px;
+
+}
+form label{
+    color:#000;
+    margin:6px 0px;
+}
+table{
+    border-radius: 2px;
+}
+.content{
+    background: #ffffff;
+    padding: 40px;
+}
+tr td a{
+    text-decoration: none;
+    color:rgba(0, 0, 0, 0.589);
+}
+.validation-error-message{
+    color: red;
+    display:none;
+}
+.validation-success-message{
+    color: green;
+    display: none;
+}
+blockquote{
+    border-left: 5px solid gray;
+    margin-top:15px;
+    font-weight: 500;
+    font-size: 14px;
+    text-indent: 10px;
+}
